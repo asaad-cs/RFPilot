@@ -1,0 +1,28 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Databases
+*.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Node
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vector store data
+chroma_data/
+
+# OS
+.DS_Store
